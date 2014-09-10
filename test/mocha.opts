@@ -1,0 +1,5 @@
+--require should
+--colors
+--check-leaks
+--ui bdd
+--reporter spec
